@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+The Github Organisation of ACP Salzburg
+
 <!--
 
 **Here are some ideas to get you started:**
